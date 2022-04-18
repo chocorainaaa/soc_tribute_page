@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
+body {
+  background-color: white;
+  font-family:'Droid Sans'; 
+  text-align: center; 
+}
+  #main {
+  margin: 20px 10px;
+  padding: 15px;
+  border-radius:10px;
+  background: rgb(240,240,240);
+}
+
+#title {
+ font-family: 'Dancing Script';
+  margin: 10px;
+}
+
+#img-div {
+  border-radius:10px;
+  background: white;
+  padding: 20px;
+}
+
+#img {
+  width: 20%;
+  max-width: 80%;
+  border-radius: 10px;
+  padding 20px;  
+}
+
+.paragraph {
+  margin: 10px; 
+  text-align: left;
+}
+
+.sub-heading {
+  margin: 20px; 
+}
+
+li {
+  margin: 5px;
+  text-align: left;
+}
+
+.o-video {
+  margin: 40px;
+} 
